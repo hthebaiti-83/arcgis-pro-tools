@@ -7,5 +7,5 @@ ArcGIS Pro with its bundled Python environment (`arcgispro-py3`).
 Some tools need extra Python libraries (for example, the QR exporter needs `qrcode`). Each tool's own README lists what it requires and how to install it.
 
 License
-This project is licensed under the MIT License — see the LICENSE file for the full text.
+This project is licensed under the MIT License - see the LICENSE file for the full text.
 © 2026 Haitham Al-Thebaiti
